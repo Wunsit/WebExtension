@@ -1,0 +1,9 @@
+{
+  "name": "Wunsit",
+  "version": "1.0",
+  "description": "Save items to your wish list.",
+  "manifest_version": 2,
+  "page_action": {
+    "default_popup": "popup.html"
+  }
+}

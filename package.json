@@ -1,0 +1,8 @@
+{
+  "name": "web-extension",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:Wunsit/WebExtension.git",
+  "author": "Mohamed Meftah <mohamed-ted@live.com>",
+  "private": true
+}
